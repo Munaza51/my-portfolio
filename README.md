@@ -56,6 +56,3 @@ Fontsizes:
 
 I'll use Icons from Font Awesome.
 Project steps overview according the project on Codecademy.com
-Plan your project (6/6/2021)
-
-For me this is the hardest to do, because I am not well at planning. I am going to spend a week to do each step and i'll adjust the plan if needed. Except for this stem. Today I have written down my plans in this README file and created a repository on GitHub , so that I can keep all the info on GitHub.
